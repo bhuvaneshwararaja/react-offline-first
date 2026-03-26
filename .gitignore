@@ -1,0 +1,9 @@
+node_modules
+dist
+coverage
+storybook-static
+examples/*/dist
+*.log
+.DS_Store
+.turbo
+docs/*
