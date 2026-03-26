@@ -1,0 +1,7 @@
+pnpm-lock.yaml
+dist
+coverage
+node_modules
+storybook-static
+examples/*/dist
+CHANGELOG.md
